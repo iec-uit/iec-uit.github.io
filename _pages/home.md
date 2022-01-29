@@ -24,22 +24,22 @@ We are an active research group at the [University of Information Technology](ht
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/tan_leaf.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ViT_architecture_leaf.PNG" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brainyEdge_1.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lv_Y_Tuan.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lv_Ha_Hai.png" alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lv_liemnam_1.png" alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -55,13 +55,13 @@ We are an active research group at the [University of Information Technology](ht
 
 
 
-To this end, we are running various projects about surveillance AI camera powered by deep learning models, AI-based Instruction Detection System, AI for resource-constrained IoT devices....  (see [Research](research)).
+To this end, we are running various projects about surveillance AI camera powered by deep learning models, Intelligent Instruction Detection System, AI for resource-constrained IoT devices....  (see [Research](research)).
 
 
  **We are  looking for passionate new PhD students, Research Internship, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from [Vietnam National University](https://vnuhcm.edu.vn/)
+We are grateful for funding from [University of Information Technology](https://uit.edu.vn) and [Vietnam National University](https://vnuhcm.edu.vn/)
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_VNU.jpg" style="width: 210px">

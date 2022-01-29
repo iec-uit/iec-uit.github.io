@@ -1,14 +1,14 @@
 ---
-title: "Allan Lab - Team"
+title: "IEC Group - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "IEC Group: Team members"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Master, and Undergrad students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
@@ -78,7 +78,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Master and Bachelor Students
+[//]: # ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -132,7 +132,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-## Alumni
+[//]: # ## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -165,7 +165,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+[//]: # # Former visitors, BSc/ MSc students
 <div class="row">
 
 <div class="col-sm-4 clearfix">
