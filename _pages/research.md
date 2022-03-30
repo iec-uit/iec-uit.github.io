@@ -12,33 +12,25 @@ Our overarching goal is to make the Internet of Things smarter and safer by inco
 
 Here are some themes and techniques that we currently work on:
 
-**Scanning tunneling noise spectroscopy (STNS).** We have developed a novel cryogenic MHz amplifier that allows us to measure not only the average tunneling current, but also its fluctuation! This has many applications: one can detect the fluctuations of the electronic states, peculiar tunneling processes, and shot noise. We have used this instrument to discover charge trapping in the insulating layer of the cuprates, connected to the c-axis mystery, and to measure the doubling of the charge due to Andreev processes to the superfluid in a lead sample.
+**The AI-enabled framework for IoT Edge Computing.** 
+We have developed an AI-enabled framework for edge devices able to jointly satisfy the Quality of Experience (QoE) criteria of IoT applications. To minimize the network cost of deploying the models to edge devices, we developed a lightweight deployment paradigm supporting cloud-compression and edge-decompression based on a user-desired compression ratio. [More details........ ](https://doi.org/10.1016/j.icte.2021.12.007)
 
 
-**Mott physics and high-temperature superconductivity.** Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high? We have worked on iridates, rhodates, and cuprates.
-
-**Nanofabricated "Smart Tips"**.
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"}
-One of the  projects back from my job-proposal is to develop nanofabricated STM tips. The idea behind these “smart tips” is to use the technologies that were developed over decades in nanofabrication and make them available for scanning probe by using a nano-device instead of the traditional STM tungsten tip. One gains the flexibility of using different functionalities that are known from the fields of nanofabrication and mesoscopic physics. We are collaborating with the group Simon Groeblacher at TU Delft to realize this concept, benefitting from their unparalleled micro/nano fabrication know how.  A prototype of a smart tip is shown to the left. See publications in Microsyst Nanoeng, Nanotechnology, and PRB.
-
-**Josephson STM.** Josephson STM has the ability to gain insight into spatial variations of the order parameter, or superfluid density. We have managed to, for the first time, use JSTM with atomic resolution on a quantum material.
-We have used atomic-resolution Josephson scanning tunneling microscopy to reveal a strongly inhomogeneous superfluid in the iron-based superconductor FeTe0.55Se0.45. The results and their implications are published in Nature.
-
-We also detected and investigated a quite particular YSR state in the same material.
-
-**Ultra-stable SI-STM instrument.**  ![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 250px; float: right; margin: 0px 10px"}
-For SI-STM, having the most stable STM head is key. We have used finite element simulations, good choices in material science, and craftsmanship to build the most stable STM head in the world, to our knowledge. See publication in RSI.
+**Deep learning-based Intrusion Detection Systems.** 
+Cyber security has become increasingly challenging due to the proliferation of the Internet of things (IoT), where a massive number of tiny, smart devices push trillion bytes of data to the Internet. However, IoT gateways provide very limited security features to detect such threats, especially the absence of intrusion detection methods powered by deep learning. Indeed, deep learning models require high computational power that exceeds the capacity of these gateways. Therefore, we aim at designing a DNN-based network intrusion detection system (NIDS) directly operated on local gateways to protect IoT devices within the network. It can accurately detect multiple cyber attacks in real-time with a small computational footprint due to a lightweight feature extraction mechanism and an efficient attack detection model powered by deep neural networks. [More details........ ](https://scholar.google.com/scholar?oi=bibs&cluster=6102749287314001031&btnI=1&hl=en)
 
 
-**Strange Metals.** The strange metal phase might be the most mysterious phase of high-temperature superconductors. Here, the electrical resistivity grows linearly with temperature T in large areas of the phase diagram, with a mean free path that diminishes to a fraction of the interatomic distance. T-linear resistivity is often associated with quantum critical points and marginal-Fermi-liquid physics. In strange metals, the mystery seems to go even further: we deal with something that looks like a quantum critical phase over an extended range of the phase diagram instead of cumulating in a point. There exists no consistent theory for strange metals, leading to more adventurous new approaches including the holographic theories that use insights from gravity to explain strange metals (a recent textbook on this was written by our colleagues at Leiden University, Schalm and Zaanen).
-We are part of the 'Strange Metal consortium NL' that includes the groups of Hussey, Golden, van Heumen, Zaanen, Schalm, Stoof and Vandoren. 
+**Leaf Disease Detection.**
+There are many kinds of leaf diseases firmly harm crop yield. In a traditional way, leaf diseases were diagnosed intuitively by farmers that is inefficient and unreliable. Therefore, we aim at employing deep neural networks for identifying leaf diseases.[More details........ ](https://scholar.google.com/scholar?oi=bibs&cluster=2437880612369474490&btnI=1&hl=en)
 
-**Magnetic fluctuations and electron spin resonance.**
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SpinFluc.png){: style="width: 70%; float: center; margin: 10px"}
 
-**Twisted bilayer graphene and other material with super-periodicities.**
-We have proposed that artificial super-periodicities can lead to improved superconductivity, both because of increased density of states and because of phase space arguments (see image from our SciPost publication below). Perhaps for different reasons, twisted bilayer graphene has been shown to superconduct! We are investigate this material with the groups of Efetov, Baumberger, and van der Molen.
+**Towards AI-Based Traffic Counting System with Edge Computing.** 
+The recent years have witnessed a considerable rise in the number of vehicles, which has placed transportation infrastructure and traffic control under tremendous pressure. Yielding timely and accurate traffic flow information is essential in the development of traffic control strategies. Despite the continual advances and the wealth of literature available in intelligent transportation system (ITS), there is a lack of practical traffic counting system, which is readily deployable on edge devices. Therefore, we desire a low-cost and effective edge-based system integrating object detection models to perform vehicle detecting, tracking, and counting. [More details........ ](https://scholar.google.com/scholar?oi=bibs&cluster=8037072773311157056&btnI=1&hl=en)
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+
+**Anomaly Detection in Time Series Data.**
+Anomalies are pervasive in time series data, such as sensor readings. Existing methods for anomaly detection cannot distinguish between anomalies that represent data errors, such as incorrect sensor readings, and notable events, such as the watering action in soil monitoring. In addition, the quality performance of such detection methods highly depends on the configuration parameters, which are dataset specific. [More details........ ](https://scholar.google.com/scholar?oi=bibs&cluster=886694153306623850&btnI=1&hl=en)
 
 ### ... and more.
+
+We’ve been active in several domains, including computer networks, network security, data cleaning, edge computing. Although these are important fields, in the mentioned list showing only works in the AI/machine learning and IoT domains, which has been attracting most of our attention lately.

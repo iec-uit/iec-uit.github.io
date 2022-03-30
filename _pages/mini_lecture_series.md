@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "IEC-UIT Lab"
 layout: textlay
 excerpt: "AOA"
 sitemap: false
