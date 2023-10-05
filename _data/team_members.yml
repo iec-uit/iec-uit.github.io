@@ -36,6 +36,21 @@
   number_educ: 1
   education1: Bachelor Computer Networks, <a href="https://www.uit.edu.vn/">University of Information Technology </a>(VNUHCM-UIT)
 
+- name: Xuan-Ha Nguyen
+  photo: hanx.jpg
+  info: Bachelor, Member, Teaching Assistant at UIT
+  email: hanx@uit.edu.vn
+  number_educ: 1
+  education1: Bachelor Network Security, <a href="https://www.uit.edu.vn/">University of Information Technology </a>(VNUHCM-UIT)
+
+- name: Dat-Thinh Nguyen
+  photo: thinhdn.jpg
+  info: Bachelor, Member, Research Assistant at UIT
+  email: hanx@uit.edu.vn
+  number_educ: 1
+  education1: Bachelor Network Security, <a href="https://www.uit.edu.vn/">University of Information Technology </a>(VNUHCM-UIT)
+
+
 #- name: Damianos Chatzopoulos
 #  photo: Damianos.jpg
 #  info: PhD Student, started December 2017
